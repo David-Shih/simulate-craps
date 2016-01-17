@@ -1,10 +1,3 @@
-/*
- * CS6375 Machine learning
- * Assignment 1
- * Name:Liang Shi
- * UTD ID:2021245632
- * 
- */
 
 import java.util.Random;
 import java.util.Scanner;
